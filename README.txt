@@ -7,7 +7,7 @@ A demonstration video: https://www.youtube.com/watch?v=AvQ6pm2Kk7w&feature=youtu
 
 SETUP AND USE INSTRUCTIONS:
 
-1. Install these external librarie: 'import requests' and 'from bs4 import BeautifulSoup' and 'import speech_recognition as sr'.  
+1. Install these external libraries: 'import requests' and 'from bs4 import BeautifulSoup' and 'import speech_recognition as sr'.  
 
 2. Download the following files and place all of them in the same folder: LivesNotes.py, cmu_112_graphics.py, Images.py, Page.py, Files.py, Tables.py, Autnotes.py, Symbols.py, Grammar.py, Text.py, words.pkl and moreCommonWords.pkl.
 
