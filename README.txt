@@ -1,6 +1,6 @@
 DESCRIPTION:
 
-LiveNotes was my Spring 2020 term project for 15-112, Fundamentals of Programming and Computer Science at Carnegie Mellon University.  It is a versatile text editor with the look of a notebook.
+LiveNotes was my spring 2020 term project for 15-112, Fundamentals of Programming and Computer Science at Carnegie Mellon University.  It is a versatile text editor with the look of a notebook.
 
 A demonstration video: https://www.youtube.com/watch?v=AvQ6pm2Kk7w&feature=youtu.be
 
